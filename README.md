@@ -1,7 +1,7 @@
 ## Not exactly the work of a hardware pro (quite the oposite lol)
 <br>
 <p align="center">
-  <img src="./uno.png" alt="Arduino Uno">
+  <img src="./uno_transparent.png" alt="Arduino Uno">
 </p>
 
 <p align="center">
